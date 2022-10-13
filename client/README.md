@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Environment Variables
+
+* **REACT_APP_API_URL** - URL to server-side API endpoints, examle: http://localhost:5000
+
 ## Available Scripts
 
 In the project directory, you can run:

@@ -32,6 +32,15 @@
 $ npm install
 ```
 
+## Environment Variables
+
+* **PORT** - port to run app
+* **DB** - database name
+* **DB_HOST** - database host
+* **DB_PORT** - database port
+* **DB_USERNAME** - database username
+* **DB_PASSWORD** - database password
+
 ## Running the app
 
 ```bash
