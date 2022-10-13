@@ -32,6 +32,18 @@ z-index: 2;
     top: -11.5rem;
     right: -24.5rem;
 }
+
+@media (max-width: 660px) {
+    transform: scale(0.6);
+    top: -14.2rem;
+    right: -25.3rem;
+}
+
+@media (max-width: 425px) {
+    transform: scale(0.5);
+    top: -16.8rem;
+    right: -26.1rem;
+}
 `
 
 const Map = () => {
